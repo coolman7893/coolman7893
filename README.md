@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Sanjit</a></h2>
 <p align="center">
-  <a href="www.linkedin.com/in/SanjitMann/">Linkedin</a> •
+  <a href="www.linkedin.com/in/SanjitMann">Linkedin</a> •
   <a href="https://www.instagram.com/sanjit_the_king/">Instagram</a> •
 </p>
 
@@ -19,7 +19,7 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolman7893&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <br>
@@ -43,6 +43,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/coolman7893/count.svg" />
 </p>
 
