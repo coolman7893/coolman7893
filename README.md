@@ -15,9 +15,6 @@
 
 ***
 
- <br>
-
-<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolman7893&layout=compact&theme=dark" alt="top-langs" />
 </p>
