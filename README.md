@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Sanjit</a></h2>
 <p align="center">
-  <a href="www.linkedin.com/in/SanjitMann">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/sanjitmann/">Linkedin</a> •
   <a href="https://www.instagram.com/sanjit_the_king/">Instagram</a> 
 </p>
 
